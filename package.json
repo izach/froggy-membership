@@ -1,0 +1,23 @@
+{
+  "name": "froggy",
+  "version": "0.0.0",
+  "description": "Froggy Frog Membership",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "froggy",
+    "frog"
+  ],
+  "author": "iherrera@fender.com",
+  "license": "ISC",
+  "dependencies" : {
+
+  },
+  "devDependencies" : {
+    "grunt" : "*",
+    "grunt-contrib-jshirt" : "*",
+    "grunt-contrib-watch" : "*"
+  }
+}
