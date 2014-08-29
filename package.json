@@ -1,6 +1,6 @@
 {
   "name": "froggy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Froggy Frog Membership",
   "main": "app.js",
   "scripts": {
